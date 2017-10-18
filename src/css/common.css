@@ -1,0 +1,12 @@
+@import './mixins.css';
+html, body{
+	padding: 0;
+	margin: 0;
+	background: #ccc;
+}
+
+ul, li{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
